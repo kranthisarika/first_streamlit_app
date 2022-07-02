@@ -1,3 +1,3 @@
-import Streamlit
+import streamlit
 
-streamlit.tiltle('My first streamlit')
+streamlit.title('My first streamlit')
